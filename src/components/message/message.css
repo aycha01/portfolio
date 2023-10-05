@@ -1,0 +1,44 @@
+
+.subcontainer{
+  display : flex ;
+  justify-content : center;
+ width: 100%;
+ 
+}
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 1.2rem;
+       
+
+    }
+    input, textarea {
+        width: 100%;
+        padding: 1.5rem 8rem ;
+        border-radius: 0.5rem;
+        background: transparent;
+        border: 2px solid var(--color-primary-variant);
+        resize: none;
+        color:var(--color-white);
+    }
+
+
+     /*media querir=es(medium devices) responsive*/ 
+ @media screen and (max-width: 1024px) {
+    .container.message__container{
+      grid-template-columns: 1fr;
+      gap:2rem;
+  
+    }
+  }
+  
+  /*media querir=es(small devices) responsive*/ 
+  @media screen and (max-width: 600px) {
+      .container.message__container{
+          width: var(--container-width-sm
+          
+          );
+          
+        }
+  
+  }
