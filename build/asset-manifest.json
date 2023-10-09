@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfillio/static/css/main.f3876a4e.css",
-    "main.js": "/Portfillio/static/js/main.0c9993bb.js",
-    "static/media/CV-aicha-amri-1.pdf": "/Portfillio/static/media/CV-aicha-amri-1.fae674b83515ef670975.pdf",
-    "static/media/IMG_7740.jpg": "/Portfillio/static/media/IMG_7740.02dfb5dc4af9a5d39b92.jpg",
-    "index.html": "/Portfillio/index.html",
-    "main.f3876a4e.css.map": "/Portfillio/static/css/main.f3876a4e.css.map",
-    "main.0c9993bb.js.map": "/Portfillio/static/js/main.0c9993bb.js.map"
+    "main.css": "/static/css/main.740a4170.css",
+    "main.js": "/static/js/main.92ec1f99.js",
+    "static/media/CV-aicha-amri-1.pdf": "/static/media/CV-aicha-amri-1.fae674b83515ef670975.pdf",
+    "index.html": "/index.html",
+    "main.740a4170.css.map": "/static/css/main.740a4170.css.map",
+    "main.92ec1f99.js.map": "/static/js/main.92ec1f99.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3876a4e.css",
-    "static/js/main.0c9993bb.js"
+    "static/css/main.740a4170.css",
+    "static/js/main.92ec1f99.js"
   ]
 }
